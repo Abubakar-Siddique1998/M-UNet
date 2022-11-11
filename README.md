@@ -1,5 +1,5 @@
 # M-UNet
-### Download Datasets ISPRS (Potsdam & Vaihingen) from [ISPRS](https://www.isprs.org/) 
+### Download ISPRS Datasets (Potsdam & Vaihingen) from [ISPRS](https://www.isprs.org/) 
 
 ### Download Weights from [Google Drive](https://drive.google.com/drive/folders/1oTcPRhWKT3XH7Y1CtsNnFr-0thkgGeEg?usp=share_link)
 
